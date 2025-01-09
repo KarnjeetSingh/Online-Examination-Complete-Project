@@ -1,5 +1,5 @@
 # Online-Examination-Complete-Project
-This review is critical as it showcases the final implementation of your project, demonstrating how effectively your initial ideas have been realized and refined.Presentation highlights the key features, functionalities, and outcomes of your work.
+This review is critical as it showcases the final implementation of project, demonstrating how effectively initial ideas have been realized and refined.Presentation highlights the key features, functionalities, and outcomes of work.
 
 ### Review Work: Online Examination System
 
